@@ -21,8 +21,6 @@ This project aims to predict customer churn using machine learning models built 
 - Achieved strong predictive performance using ROC-AUC evaluation
 - Identified key churn drivers such as contract type and tenure
 
-## 💡 Business Impact
-The model enables organizations to identify high-risk customers and implement targeted retention strategies, improving customer loyalty and reducing revenue loss.
 ## 📸 Project Screenshots
 
 ### 🔹 Model Pipeline
@@ -68,3 +66,6 @@ This explains a single prediction:
 - Contract type has the strongest influence
 - Internet service and tenure also contribute
 - Provides transparency into model decisions
+
+## 💡 Business Impact
+The model enables organizations to identify high-risk customers and implement targeted retention strategies, improving customer loyalty and reducing revenue loss.
