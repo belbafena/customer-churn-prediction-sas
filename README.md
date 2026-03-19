@@ -23,3 +23,19 @@ This project aims to predict customer churn using machine learning models built 
 
 ## 💡 Business Impact
 The model enables organizations to identify high-risk customers and implement targeted retention strategies, improving customer loyalty and reducing revenue loss.
+## 📸 Project Screenshots
+
+### 🔹 Model Pipeline
+![Model Pipeline](pipeline.png)
+
+### 🔹 ROC Curve
+![ROC Curve](roc.png)
+
+### 🔹 Accuracy Analysis
+![Accuracy](accuracy.png)
+
+### 🔹 F1 Score
+![F1 Score](f1.png)
+
+### 🔹 Classification Results
+![Classification](classification.png)
