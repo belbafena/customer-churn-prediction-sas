@@ -44,7 +44,7 @@ The model enables organizations to identify high-risk customers and implement ta
 ## 🔍 Model Interpretability
 
 ### 🔹 Partial Dependence Plot (PD)
-![PD Plot](pd_plot.png)
+![PD Plot](pd.png)
 
 This plot shows the overall effect of contract type on churn prediction.
 - Month-to-month contracts have higher churn probability
