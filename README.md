@@ -35,7 +35,7 @@ The model enables organizations to identify high-risk customers and implement ta
 ![Accuracy](accuracy.png)
 
 ### 🔹 F1 Score
-![F1 Score](f1 score.png)
+![F1 Score](f1_score.png)
 
 ### 🔹 Classification Results
 ![Classification](classification.png)
